@@ -40,5 +40,3 @@ Examples:
 ```bash
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
-pip install -r requirements.txt
-streamlit run app/streamlit_app.py
